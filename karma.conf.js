@@ -27,6 +27,7 @@ module.exports = function (config) {
       'app/bower_components/jquery/jquery.js',
       'app/bower_components/angular/angular.js',
       'app/bower_components/angular-mocks/angular-mocks.js',
+      'app/bower_components/lodash/dist/lodash.js',
       'app/bower_components/angular-translate/angular-translate.js',
       'app/bower_components/wix-angular/dist/wix-angular.js',
       'app/bower_components/es5-shim/es5-shim.js',
