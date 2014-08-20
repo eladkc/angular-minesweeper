@@ -6,7 +6,6 @@
     function MinesweeperGameFactory() {
         function MinesweeperGame(rows) {
             this.board = [rows];
-//            kc
         }
         return MinesweeperGame;
     }
